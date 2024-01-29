@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://admin:admin@chaitanya.ww5enoq.mongodb.net/?retryWrites=true&w=majority
+      database: Test
+
